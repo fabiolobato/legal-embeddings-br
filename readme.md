@@ -19,7 +19,7 @@ python3 load_models.py
 * `collection`
 * `more-itertools`
 
-3. Cite este trabalho
+3. Cite este trabalho:
 ```
 @INPROCEEDINGS{230786,
     AUTHOR="Fabrício do Carmo and Ferdinando Serejo and Antonio Fernando Lavareda Jacob Junior and Ewaldo Santana and Fabio Lobato",
@@ -29,6 +29,6 @@ python3 load_models.py
     DAYS="23-28",
     MONTH="jul",
     YEAR="2023",
-    URL="http://XXXXX/230786-23.pdf"
+    URL="http://XXXXX/230786-2_3.pdf"
 }
 ```
